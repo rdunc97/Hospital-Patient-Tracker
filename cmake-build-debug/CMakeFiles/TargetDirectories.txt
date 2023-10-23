@@ -1,0 +1,3 @@
+/Users/ryanduncan/Desktop/patientTracker/cmake-build-debug/CMakeFiles/duncan_ryan_hw5.dir
+/Users/ryanduncan/Desktop/patientTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ryanduncan/Desktop/patientTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
